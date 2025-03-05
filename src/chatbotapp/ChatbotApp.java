@@ -72,7 +72,7 @@ class Chatbot {
     private String filterOffensiveWords(String message) {
     String[] badWords = {
         "idiot", "stupid", "dumb", "ugly", "fool",
-        "hate", "loser", "trash", "jerk", "darn", "fuck", "fuck you", "fuck u",
+        "hate", "loser", "trash", "jerk", "darn", "fuck",
         "moron", "crap", "shut up", "nasty", "gross"
     };
 
