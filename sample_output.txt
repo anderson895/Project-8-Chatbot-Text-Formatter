@@ -1,0 +1,29 @@
+Inputs: Converse with the chatbot subject to your preference. However, the chatbot is made by an American company so you 
+        should comunicate with it in English. 
+       1.  You may input an English text or sentence, or a number from 1-9 but not an equation. But if your number is 0 or exceeded to 9 and is an equation, 
+       your conversation with the chatbot would end. 
+
+Sample Ouput 1: 
+You: Hi!
+Chatbot: Hello, user! 
+You: Can you help me?
+Chatbot: How may I help you? 
+You: My english sucks can you help me with it?
+Chatbot: Yes, I can help you with that! But your sentence, "My english *** can you help me with it?", contains an offensive word. 
+In conversing with me, you must be polite. 
+You: Sorry
+Chatbot: It's okay!
+You: Thank you! but it really sucks.
+Chatbot: You're welcome! But your sentence, "Thank you! but it really ***.", contains an offensive word. In conversing with me, 
+you must be polite. 
+You: mY b4D
+Chatbot: do you mean with "mY b4D" as "my bad"?
+You: Yes. I want a racecar.
+Chatbot: Okay! Wowww. Coool. Your sentence, "Yes. I want a racecar." contains a palindrome. So, if we reverse it, it's still the same, 
+which is, racecar.
+You: Okay, byei!
+Chatbot: Okay, BYE?
+You: whatevar
+Chatbot: WHATEVER?
+You: 9999990
+[end]
